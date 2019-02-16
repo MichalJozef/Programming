@@ -1,4 +1,4 @@
-# Java
-Basic Java projects
+# Programming
+Basic projects
 
 Only for purposes of job interviews.
