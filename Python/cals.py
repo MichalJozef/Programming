@@ -4,8 +4,3 @@ def calc(a, b):
   print(a + b)
  
 print("testing...")
-print("another testing...")
-print("Python")
-print("Hershell")
-print("Another USER")
-print("From another account")
