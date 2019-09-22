@@ -2,7 +2,7 @@
 
 def calc(a, b):
   print(a + b)
- print("testing...")
-
+ 
+print("testing...")
 print("another testing...")
 print("Python")
