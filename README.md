@@ -1,4 +1,4 @@
 # Programming
-Basic projects
+Basic projects in different languages
 
 Only for purposes of job interviews.
