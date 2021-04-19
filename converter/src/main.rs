@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    println!("\nWelcome to Hershell's awesome The Converter!");
+    println!("\nWelcome to awesome The Converter!");
     println!("----------------------------------------------\n");
     println!("The Converter interchangeably calculates Fahrenheit temperatures to Celsius temperatures and vice versa.\n");
     println!("Usage: <integral number, unit>");
