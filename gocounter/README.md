@@ -4,7 +4,7 @@ Go implementation of finding duplicate strings in text input.
 
 # Usage
 
-./godif <text1>, <text2> ... <textn>
+`./godif <text1>, <text2> ... <text*n*>`
   
 # Tests
 
@@ -18,7 +18,8 @@ Case: test files contain duplicate lines as much as possible on testing purpose 
 
 # Output
 
-_____________________________________________________________________________________________________
+```
+____________________________________________________________________________________________________
 |                                            -=RESULTS=-                                            |
 | Found duplicate in file <<mock2.txt>>              <<Vestibulum sit amet ar...>>   Count:   84871 |
 | Found duplicate in file <<mock2.txt>>              <<Orci varius natoque pe...>>   Count:   84871 |
@@ -104,4 +105,4 @@ ________________________________________________________________________________
 | Found duplicate in file <<mock3.txt>>              <<Pellentesque gravida p...>>   Count:  159610 |
 |___________________________________________________________________________________________________|
   
- 
+```
