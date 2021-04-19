@@ -4,16 +4,16 @@
 	import Modal from './Modal.svelte';
 	let modal = false;
 	let allowed;
-	let name = 'Hershell';
+	let name = 'Michal';
 	let products = {
 		id : 'hdks',
-		name : 'Hershell',
+		name : 'Michal',
 		age : 13,
 	};
 	console.log('Script ran App!')
 </script>
 
-<Product {...products} on:deleteName={() => name = 'Abulafia'} on:setDefault={() => alert('Hello')}>
+<Product {...products} on:deleteName={() => name = 'Michal'} on:setDefault={() => alert('Hello')}>
 	<p>Test SLOT</p>
 </Product>
 <View item="{name}"/>
