@@ -14,7 +14,7 @@ Files: mock2.txt (3.8G) mock3.txt (520M)
 
 Elapsed time:  8.241735571s
 
-Case: test files contain duplicate lines as much as possible on testing purpose to prove "worst case" testing scenario time/space complexity
+Case: test files contain as many duplicate lines as possible for testing purposes to prove the "worst case" testing scenario time/space complexity
 
 # Output
 
