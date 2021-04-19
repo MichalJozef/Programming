@@ -58,9 +58,6 @@ func main() {
 	fmt.Println("|___________________________________________________________________________________________________|")
 	stop := time.Now()
 	fmt.Println("\nElapsed time: ", stop.Sub(start))
-	fmt.Println("Map len (Result.sentence):",len(result.sentence))
-	fmt.Println("Map len (Result.fileSet):",len(result.fileSet))
-	fmt.Println("Result object", result)
 }
 
 func countLines(f *os.File, /*count map[string]int,*/ result *Result) {
