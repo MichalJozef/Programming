@@ -1,6 +1,14 @@
-# Overview
+# Description
 
 Go implementation of finding duplicate strings in text input.
+
+# Author
+
+@Author Michal JOZEF
+
+# Purpose
+
+Only for job inteview purpose
 
 # Usage
 
