@@ -9,7 +9,7 @@
     "dev": "sirv public --dev",
     "start": "run-p dev build"
   },
-  "author": "Hershell Makowitzky",
+  "author": "Michal Jozef",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^7.1.3",
