@@ -1,10 +1,3 @@
-/*
-* Read my mind - a simple guessing game
-* Version 0.0.1
-* Author Michal Jozef
-* Only for purposes of job interviews
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
